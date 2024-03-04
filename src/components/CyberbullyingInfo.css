@@ -1,0 +1,147 @@
+
+.cyberbullying-container {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .r{
+    margin-top: 50px;
+
+  }
+  .cyberbullying-text {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .cyberbullying-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  .report-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .report-form h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+
+  /* step by guide css */
+  /* StepByStepGuide.css */
+.step-by-step-guide {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .step {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+
+  /* CSS for the link */
+.a {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    cursor: pointer;
+  }
+  
+  .a:hover {
+    background-color: #0056b3;
+    color: #fff;
+    border-color: #0056b3;
+  }
+  
+  /* Additional styles for accessibility and focus */
+  a:focus {
+    outline: none;
+    box-shadow: 0 0 4px #007bff;
+  }
+  /* CSS for the image */
+.cyberbullying-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
+  
+  
+  
